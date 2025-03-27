@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\programming SPBU\\2025-spring-cpp\\2025.03.13_HW_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD8866E2-8BAB-4571-B1D6-DD9C4052C805}|Project1\\Project1.vcxproj|C:\\Users\\vladt\\Downloads\\source (1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AD8866E2-8BAB-4571-B1D6-DD9C4052C805}|Project1\\Project1.vcxproj|C:\\Users\\vladt\\Downloads\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD8866E2-8BAB-4571-B1D6-DD9C4052C805}|Project1\\Project1.vcxproj|C:\\Users\\vladt\\Downloads\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD8866E2-8BAB-4571-B1D6-DD9C4052C805}|Project1\\Project1.vcxproj|C:\\Users\\vladt\\Downloads\\Matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AD8866E2-8BAB-4571-B1D6-DD9C4052C805}|Project1\\Project1.vcxproj|C:\\Users\\vladt\\Downloads\\source (1).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,11 +19,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Matrix.h",
               "DocumentMoniker": "C:\\Users\\vladt\\Downloads\\Matrix.h",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\vladt\\Downloads\\Matrix.h",
@@ -37,7 +37,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "source (1).cpp",
               "DocumentMoniker": "C:\\Users\\vladt\\Downloads\\source (1).cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\vladt\\Downloads\\source (1).cpp",
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\vladt\\Downloads\\Matrix.cpp",
               "ToolTip": "C:\\Users\\vladt\\Downloads\\Matrix.cpp",
               "RelativeToolTip": "..\\..\\..\\Users\\vladt\\Downloads\\Matrix.cpp",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAAwA4BAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAA4BAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-13T12:34:55.138Z",
               "EditorCaption": ""
