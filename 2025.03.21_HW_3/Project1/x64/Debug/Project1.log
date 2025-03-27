@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\programming SPBU\2025-spring-cpp\2025.03.21_HW_3\Project1\Source.cpp(181,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1.vcxproj -> C:\programming SPBU\2025-spring-cpp\2025.03.21_HW_3\x64\Debug\Project1.exe
